@@ -1,5 +1,9 @@
 import Navbar from './components/Navbar'
 
+import {
+  ThemeProvider, 
+} from '@mui/'
+
 function App() {
 
   return (
